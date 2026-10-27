@@ -287,3 +287,7 @@ The [`docs/`](docs/README.md) directory goes deeper on specific topics:
 
 See also [`CONTRIBUTING.md`](CONTRIBUTING.md), [`SECURITY.md`](SECURITY.md),
 and [`CHANGELOG.md`](CHANGELOG.md).
+
+## Fix for Issue #199: No automated regression tests for bug fixes
+
+Establish a policy of adding regression tests for every bug fix and create a dedicated regression test suite. This prevents previously fixed bugs from recurring.
